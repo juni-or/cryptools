@@ -1,4 +1,6 @@
-![Cryptools](https://i.imgur.com/k1zv2eB.png)
+<p align="center">
+  <img src="https://i.imgur.com/k1zv2eB.png" alt="Cryptools"/>
+</p>
 
 ### 📚 Sobre / About
 Cryptools é um bot brasileiro criado para Discord com foco na comunidade de criptomoedas e mineração, além de informar dados relacionados à criptomoedas, o bot consegue ajudar à configurar mineradores, exibe overclocks e diversas outras funcionalidades. 
@@ -40,6 +42,12 @@ Cryptools é um bot brasileiro criado para Discord com foco na comunidade de cri
 ### 📦 Canais / Channels
 - `GasPrice channel` em breve
 
+### 📦 Pools
+
+- Ethereum: `Flexpool` `Besafepool` `Realpool` `Garimpool` `Pool2Mine` `Sparkpool` `Ethermine`
+- Ergo: `Herominers` `Nanopool` `Woolypooly`
+- Ravencoin: `soon`
+
 ### 💻 Links
 
 - [Convite o bot (Bot invite)](https://discord.com/oauth2/authorize?client_id=863032603057061919&scope=bot&permissions=3960466673)
@@ -50,5 +58,7 @@ Cryptools é um bot brasileiro criado para Discord com foco na comunidade de cri
 
 ### 📷 Imagens
 
-![cryptools discord1](https://i.imgur.com/sO0qBA6.png)
-![cryptools discord2](https://i.imgur.com/DwDJuMy.png)
+<p align="center">
+  <img src="https://i.imgur.com/sO0qBA6.png" alt="Discord"/>
+  <img src="https://i.imgur.com/DwDJuMy.png" alt="Discord"/>
+</p>
