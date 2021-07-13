@@ -52,6 +52,7 @@ Cryptools é um bot brasileiro criado para Discord com foco na comunidade de cri
 
 - [Convide o bot (Bot invite)](https://discord.com/oauth2/authorize?client_id=863032603057061919&scope=bot&permissions=3960466673)
 - [Servidor do Discord (Discord server)](https://discord.gg/7jVptS8Fym)
+- [Reddit /r/cryptools](https://www.reddit.com/r/cryptools/)
 - [Top.gg](https://top.gg/bot/863032603057061919)
 - [Bots.gg](https://discord.bots.gg/bots/863032603057061919)
 - Discord: str#0848
