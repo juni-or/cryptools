@@ -10,7 +10,7 @@ Cryptools é um bot brasileiro criado para Discord com foco na comunidade de cri
 - [ ] English (Soon)
 - [ ] Espanõl (En breve)
 
-#### Ajude na tradução: https://crowdin.com/project/cryptools
+#### 🌍 Ajude na tradução: https://crowdin.com/project/cryptools
 
 ### 📤 Atualizações / Updates
 - [ ] Idiomas
