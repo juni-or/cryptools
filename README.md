@@ -17,13 +17,13 @@ Cryptools é um bot brasileiro criado para Discord com foco na comunidade de cri
 - [ ] Tickets
 - [ ] Sistema de notícias
 - [ ] Comando !set (canal, prefixo)
-- [ ] Lista de overclocks
-- [ ] Calculo de Retorno de Investimento
+- [ ] Lista de overclocks - 5%
+- [ ] Calculo de Retorno de Investimento - 60%
 - [ ] Adicionar mais pools à listagem
 - [ ] Adicionar mais criptomoedas
 - [ ] Sistema de sorteio
-- [ ] Calculadora de Ethereum / Ergo / Monero / Ravencoin / Chia
-- [ ] Implementação total do discord-buttons, dropdowns e slash commands
+- [ ] Calculadora de Ethereum / Ergo / Monero / Ravencoin / Chia - 20%
+- [ ] Implementação total do discord-buttons, dropdowns e slash commands - 40%
 
 ### 📦 Comandos / Commands
 - `!gas`
