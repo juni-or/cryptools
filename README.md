@@ -24,6 +24,7 @@ Cryptools é um bot brasileiro criado para Discord com foco na comunidade de cri
 - [ ] Sistema de sorteio
 - [ ] Calculadora de Ethereum / Ergo / Monero / Ravencoin / Chia - 20%
 - [ ] Implementação total do discord-buttons, dropdowns e slash commands - 40%
+- [ ] perfil customizavel 99% - Veja o resultado em [Imagens](https://github.com/juni-or/cryptools#-imagens)
 
 ### 📦 Comandos / Commands
 - `!gas`
@@ -39,6 +40,7 @@ Cryptools é um bot brasileiro criado para Discord com foco na comunidade de cri
 - `!overclock <cripto> <placa de vídeo>`
 - `!criptomoeda`
 - `!roi <valor total> <consumo> <dias> <horas>`
+- `!perfil <nome da rig> <hashrate>`
 
 ### 📦 Canais / Channels
 - `GasPrice channel` em breve
@@ -61,6 +63,8 @@ Cryptools é um bot brasileiro criado para Discord com foco na comunidade de cri
 ### 📷 Imagens
 
 <p align="center">
+  <img src="https://cdn.discordapp.com/attachments/863433201547739156/865365051480080444/perfil-str0848-cryptools.png" alt="Discord"/>
+  <img src="https://cdn.discordapp.com/attachments/863433201547739156/865365930857857074/perfil-str0848-cryptools.png" alt="Discord"/>
   <img src="https://i.imgur.com/sO0qBA6.png" alt="Discord"/>
   <img src="https://i.imgur.com/DwDJuMy.png" alt="Discord"/>
 </p>
