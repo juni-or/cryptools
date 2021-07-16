@@ -63,8 +63,8 @@ Cryptools é um bot brasileiro criado para Discord com foco na comunidade de cri
 ### 📷 Imagens
 
 <p align="center">
-  <img src="https://cdn.discordapp.com/attachments/863433201547739156/865365051480080444/perfil-str0848-cryptools.png" alt="Discord"/>
-  <img src="https://cdn.discordapp.com/attachments/863433201547739156/865365930857857074/perfil-str0848-cryptools.png" alt="Discord"/>
+  <img src="https://i.imgur.com/xsAeNIp.png" alt="Discord"/>
+  <img src="https://i.imgur.com/hWeHjiw.png" alt="Discord"/>
   <img src="https://i.imgur.com/sO0qBA6.png" alt="Discord"/>
   <img src="https://i.imgur.com/DwDJuMy.png" alt="Discord"/>
 </p>
