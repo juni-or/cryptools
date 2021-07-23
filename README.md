@@ -40,18 +40,18 @@ Cryptools é um bot brasileiro criado para Discord com foco na comunidade de cri
 - `!overclock <cripto> <placa de vídeo>`
 - `!criptomoeda`
 - `!roi <valor total> <consumo> <dias> <horas>`
-- `!perfil <nome da rig> <hashrate>`
+- `!card <nome da rig> <hashrate>`
 - `!prefixo <novoprefixo>`
 - `!gasprice <canal>`
 
 ### 📦 Canais / Channels
-- `GasPrice channel` em breve
+- `GasPrice channel` `!gasprice <canal>` 
 
 ### 📦 Pools
 
 - Ethereum: `Flexpool` `Besafepool` `Realpool` `Garimpool` `Pool2Mine` `Sparkpool` `Ethermine`
 - Ergo: `Herominers` `Nanopool` `Woolypooly`
-- Ravencoin: `soon`
+- Ravencoin: `em breve`
 
 ### 💻 Links
 
