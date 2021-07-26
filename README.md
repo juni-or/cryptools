@@ -1,5 +1,6 @@
 <p align="center">
   <img src="https://i.imgur.com/k1zv2eB.png" alt="Cryptools"/>
+  [![Discord Bots](https://top.gg/api/widget/status/863032603057061919.svg)](https://top.gg/bot/863032603057061919)
 </p>
 
 ### 📚 Sobre / About
