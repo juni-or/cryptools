@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://i.imgur.com/k1zv2eB.png" alt="Cryptools"/>
  <a href="https://top.gg/bot/863032603057061919">
-  <img src="https://top.gg/api/widget/863032603057061919.svg" alt="Cryptools" />
+  <img src="https://top.gg/api/widget/status/863032603057061919.svg" alt="Cryptools" />
   </a>
 </p>
 
